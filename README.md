@@ -14,7 +14,7 @@ DELETE /api/notes/:id - Deletes a note with a given ID
 * [Uniqid](https://www.npmjs.com/package/uniqid)
 
 ## Live URL
-Deployed using Heroku to: 
+Deployed using Heroku to: https://stardotjpg-note-taker.herokuapp.com/
 
 ## Contribution
 Made with ❤️ by Jason Greenia
