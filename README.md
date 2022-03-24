@@ -5,7 +5,7 @@ This is a websie using an Express node.js backend that will track notes created 
 
 Notes can also be accessed using these API calls:
 * GET /api/notes - Gets all notes
-* POST /api/notes - Adds a note given a "text" and "description property
+* POST /api/notes - Adds a note given a "text" and "description" property
 * DELETE /api/notes/:id - Deletes a note with a given ID
 
 ## Built With
