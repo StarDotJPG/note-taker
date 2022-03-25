@@ -1,7 +1,7 @@
 # Note Taker
 
 ## Description
-This is a websie using an Express node.js backend that will track notes created by a user. 
+This is a website using an Express node.js backend that will track notes created by a user. 
 
 Notes can also be accessed using these API calls:
 * GET /api/notes - Gets all notes
